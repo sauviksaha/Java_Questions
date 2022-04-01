@@ -16,7 +16,7 @@ class Max
         else if(c > a && c > b && c > d) 
             max = c;
         else
-            max = c;
+            max = d;
 
         System.out.println("Maximum No. = " + max);
     }
